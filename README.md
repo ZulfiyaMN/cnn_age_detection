@@ -1,2 +1,2 @@
 # cnn_age_detection
-Convolutional Neural Network for age approximation. 
+Convolutional Neural Network for age approximation using UTKFace dataset. 
